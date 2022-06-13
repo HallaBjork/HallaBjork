@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="https://hallakristjansdottir.files.wordpress.com/2022/06/iec-intro2-2-e1654724738932.jpg">
 </p>
 
 <p align="center">
