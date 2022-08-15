@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://hallakristjansdottir.files.wordpress.com/2022/06/iec-intro2-2-e1654724738932.jpg">
+  <img src="https://github.com/HallaBjork/HallaBjork/blob/main/IEC-intro2.jpg">
 </p>
+
 
 <p align="center">
   <a href="https://twitter.com/hallakristjans1" target="_blank">
